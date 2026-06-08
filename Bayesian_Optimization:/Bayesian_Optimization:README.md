@@ -1,0 +1,2 @@
+# 🤖 Bayesian Optimization
+The core algorithmic workspace. Contains Gaussian Process (GP) models and Acquisition Function designs tailored for the small-data optimization of AA-DMAEA hydrogel formulations.
